@@ -1,0 +1,14 @@
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\bin\Debug\netcoreapp3.1\MoodAnalyserDay20.exe
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\bin\Debug\netcoreapp3.1\MoodAnalyserDay20.deps.json
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\bin\Debug\netcoreapp3.1\MoodAnalyserDay20.runtimeconfig.json
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\bin\Debug\netcoreapp3.1\MoodAnalyserDay20.runtimeconfig.dev.json
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\bin\Debug\netcoreapp3.1\MoodAnalyserDay20.dll
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\bin\Debug\netcoreapp3.1\MoodAnalyserDay20.pdb
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.csproj.AssemblyReference.cache
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.GeneratedMSBuildEditorConfig.editorconfig
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.AssemblyInfoInputs.cache
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.AssemblyInfo.cs
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.csproj.CoreCompileInputs.cache
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.dll
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.pdb
+E:\MSTestMoodAnalyserDay20\MSTestMoodAnalyserDay20\obj\Debug\netcoreapp3.1\MoodAnalyserDay20.genruntimeconfig.cache
